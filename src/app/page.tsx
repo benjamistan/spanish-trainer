@@ -9,7 +9,7 @@ export default function TableOfContents() {
 			<ul className='text-lg list-disc'>
 				<li>
 					<Link href='/1000words' className='text-blue-500 hover:underline'>
-						Practice 1000 Spanish Words
+						Most Common 1000 Spanish Words
 					</Link>
 				</li>
 				{/* Add more links to other sections here if needed */}

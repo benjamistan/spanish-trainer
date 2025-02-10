@@ -1,0 +1,216 @@
+[
+	{
+		"number": 1,
+		"spanish": "Tengo el teléfono apagado.",
+		"english": "I have my phone switched off."
+	},
+	{
+		"number": 2,
+		"spanish": "Tengo un vecino muy amable.",
+		"english": "I have a very kind neighbor."
+	},
+	{ "number": 3, "spanish": "Tengo sueño.", "english": "I am sleepy." },
+	{
+		"number": 4,
+		"spanish": "Tengo curiosidad por aprender más español.",
+		"english": "I am curious to learn more Spanish."
+	},
+	{ "number": 5, "spanish": "Tengo sed.", "english": "I am thirsty." },
+	{ "number": 6, "spanish": "Tengo hambre.", "english": "I am hungry." },
+	{ "number": 7, "spanish": "Tengo frío.", "english": "I am cold." },
+	{ "number": 8, "spanish": "Tengo calor.", "english": "I am hot." },
+	{ "number": 9, "spanish": "Tengo prisa.", "english": "I am in a hurry." },
+	{ "number": 10, "spanish": "Tengo razón.", "english": "I am right." },
+	{
+		"number": 11,
+		"spanish": "Tengo ganas de viajar.",
+		"english": "I feel like traveling."
+	},
+	{
+		"number": 12,
+		"spanish": "Tengo que estudiar.",
+		"english": "I have to study."
+	},
+	{
+		"number": 13,
+		"spanish": "Tengo una pregunta.",
+		"english": "I have a question."
+	},
+	{
+		"number": 14,
+		"spanish": "Tengo un coche rojo.",
+		"english": "I have a red car."
+	},
+	{
+		"number": 15,
+		"spanish": "Tengo un perro muy cariñoso.",
+		"english": "I have a very affectionate dog."
+	},
+	{
+		"number": 16,
+		"spanish": "Tengo dos hermanos.",
+		"english": "I have two brothers."
+	},
+	{
+		"number": 17,
+		"spanish": "Tengo muchos amigos en España.",
+		"english": "I have many friends in Spain."
+	},
+	{
+		"number": 18,
+		"spanish": "Tengo una cita mañana.",
+		"english": "I have an appointment tomorrow."
+	},
+	{
+		"number": 19,
+		"spanish": "Tengo un trabajo nuevo.",
+		"english": "I have a new job."
+	},
+	{
+		"number": 20,
+		"spanish": "Tengo una casa en el campo.",
+		"english": "I have a house in the countryside."
+	},
+	{
+		"number": 21,
+		"spanish": "Tengo una idea genial.",
+		"english": "I have a great idea."
+	},
+	{
+		"number": 22,
+		"spanish": "Tengo una reunión a las tres.",
+		"english": "I have a meeting at three."
+	},
+	{ "number": 23, "spanish": "Tengo fiebre.", "english": "I have a fever." },
+	{ "number": 24, "spanish": "Tengo tos.", "english": "I have a cough." },
+	{
+		"number": 25,
+		"spanish": "Tengo alergia al polen.",
+		"english": "I am allergic to pollen."
+	},
+	{
+		"number": 26,
+		"spanish": "Tengo una gata blanca y naranja.",
+		"english": "I have a white and orange cat."
+	},
+	{
+		"number": 27,
+		"spanish": "Tengo una bicicleta azul.",
+		"english": "I have a blue bicycle."
+	},
+	{
+		"number": 28,
+		"spanish": "Tengo un examen el lunes.",
+		"english": "I have an exam on Monday."
+	},
+	{
+		"number": 29,
+		"spanish": "Tengo tiempo libre esta tarde.",
+		"english": "I have free time this afternoon."
+	},
+	{
+		"number": 30,
+		"spanish": "Tengo que ir al supermercado.",
+		"english": "I have to go to the supermarket."
+	},
+	{
+		"number": 31,
+		"spanish": "Tengo que llamar a mi madre.",
+		"english": "I have to call my mother."
+	},
+	{
+		"number": 32,
+		"spanish": "Tengo que limpiar la casa.",
+		"english": "I have to clean the house."
+	},
+	{
+		"number": 33,
+		"spanish": "Tengo un amigo que vive en México.",
+		"english": "I have a friend who lives in Mexico."
+	},
+	{
+		"number": 34,
+		"spanish": "Tengo ganas de comer algo dulce.",
+		"english": "I feel like eating something sweet."
+	},
+	{
+		"number": 35,
+		"spanish": "Tengo un libro muy interesante.",
+		"english": "I have a very interesting book."
+	},
+	{
+		"number": 36,
+		"spanish": "Tengo una sorpresa para ti.",
+		"english": "I have a surprise for you."
+	},
+	{
+		"number": 37,
+		"spanish": "Tengo una lista de tareas pendientes.",
+		"english": "I have a to-do list."
+	},
+	{
+		"number": 38,
+		"spanish": "Tengo una maleta lista para viajar.",
+		"english": "I have a suitcase ready to travel."
+	},
+	{
+		"number": 39,
+		"spanish": "Tengo un billete de avión para Madrid.",
+		"english": "I have a plane ticket to Madrid."
+	},
+	{
+		"number": 40,
+		"spanish": "Tengo que levantarme temprano mañana.",
+		"english": "I have to wake up early tomorrow."
+	},
+	{
+		"number": 41,
+		"spanish": "Tengo un proyecto importante en el trabajo.",
+		"english": "I have an important project at work."
+	},
+	{
+		"number": 42,
+		"spanish": "Tengo que comprar pan y leche.",
+		"english": "I have to buy bread and milk."
+	},
+	{
+		"number": 43,
+		"spanish": "Tengo una nueva afición: la fotografía.",
+		"english": "I have a new hobby: photography."
+	},
+	{
+		"number": 44,
+		"spanish": "Tengo un buen recuerdo de aquel viaje.",
+		"english": "I have a good memory of that trip."
+	},
+	{
+		"number": 45,
+		"spanish": "Tengo miedo de las alturas.",
+		"english": "I am afraid of heights."
+	},
+	{
+		"number": 46,
+		"spanish": "Tengo curiosidad por aprender más español.",
+		"english": "I am curious to learn more Spanish."
+	},
+	{
+		"number": 47,
+		"spanish": "Tengo que hacer ejercicio más a menudo.",
+		"english": "I have to exercise more often."
+	},
+	{
+		"number": 48,
+		"spanish": "Tengo que devolver este libro a la biblioteca.",
+		"english": "I have to return this book to the library."
+	},
+	{
+		"number": 49,
+		"spanish": "Tengo que cocinar la cena esta noche.",
+		"english": "I have to cook dinner tonight."
+	},
+	{
+		"number": 50,
+		"spanish": "Tengo que escribir un mail importante.",
+		"english": "I have to write an important email."
+	}
+]

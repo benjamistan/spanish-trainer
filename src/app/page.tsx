@@ -12,6 +12,11 @@ export default function TableOfContents() {
 						Most Common 1000 Spanish Words
 					</Link>
 				</li>
+				<li>
+					<Link href='/tengo' className='text-blue-500 hover:underline'>
+						Tengo
+					</Link>
+				</li>
 				{/* Add more links to other sections here if needed */}
 			</ul>
 		</div>

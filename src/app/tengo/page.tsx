@@ -30,20 +30,20 @@ export default function TengoCycler() {
 	return (
 		<div className='flex flex-col items-center justify-start gap-4 mt-20 text-center'>
 			<div className='text-lg text-gray-700 mb-20'>Words Seen: {wordCount}</div>
-			{currentWord ? (
-				<>
+			<div className='min-h-[200px] flex items-center'>
+				{currentWord ? (
 					<div className='grid grid-cols-2 gap-8 border-black'>
-						<div className='text-3xl text-gray-500 w-48'>
+						<div className='text-3xl text-gray-500 w-96'>
 							{currentWord.english}
 						</div>
-						<div className='text-3xl w-48 '>
+						<div className='text-3xl w-96'>
 							{revealSpanish ? currentWord.spanish : ''}
 						</div>
 					</div>
-				</>
-			) : (
-				<div className='text-xl'>Click the button to start!</div>
-			)}
+				) : (
+					<div className='text-xl'>Click the button to start!</div>
+				)}
+			</div>
 			<button
 				onClick={handleButtonClick}
 				className='mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600'
